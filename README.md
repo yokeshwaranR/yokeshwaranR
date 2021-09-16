@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yokeshwaranR
-- 👀 I’m interested in javascript, reactjs and nodejs
-- 🌱 I’m currently learning reactjs
+- 👀 I’m interested in javascript, java, springboot, reactjs and nodejs
+- 🌱 I’m currently learning reactjs, python
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me callmeyokesh@gmail.com
 
